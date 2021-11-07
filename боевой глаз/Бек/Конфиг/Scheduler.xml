@@ -150,35 +150,36 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>000030</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Welcome To xxxxxxxx Roleplay Server</cmd>
+		<cmd>say -1 Добро Пожаловать на сервер Humster!</cmd>
 	</job>
 	<job id='1'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000040</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Please Be Aware That This Server Is A TEST SERVER</cmd>
+		<cmd>say -1 Рейд осуществляется с помощью С4 и патронами в воскресенье с 15:00 до 20:00 по мск/The raid is carried out with the help of C4 and cartridges on Sunday from 15:00 to 20:00 Moscow time</cmd>
 	</job>	
     <job id='2'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000050</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Have Any Suggestion Or Feedback? Discord: xxxxxx</cmd>
+		<cmd>say -1 Discord -https://discord.gg/uYdf6fHcrN</cmd>
+	   
 	</job>
 	<job id='3'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000060</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Do NOT KOS</cmd>
+		<cmd>say -1 Читайте Правила Сервера!</cmd>
 	</job>
 	<job id='4'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000070</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 This Server Restart Every 3 Hours</cmd>
+		<cmd>say -1 Удачной вам Игры!</cmd>
 	</job>	
 <!-- End repeat messages -->
 
